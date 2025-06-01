@@ -26,7 +26,7 @@ A Java-based educational tool designed to simulate the behavior of a simplified 
 
 ## 🛠️ Requirements
 
-- Java 8 or higher
+- Java 24 or higher
 - No external libraries required
 
 ---
